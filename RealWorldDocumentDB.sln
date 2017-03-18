@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldDocumentDB.Web", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldDocumentDB.Data", "src\RealWorldDocumentDB.Data\RealWorldDocumentDB.Data.csproj", "{47984B6C-46D2-4786-853B-2A12591F10DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldDocumentDB.Entities", "src\RealWorldDocumentDB.Entities\RealWorldDocumentDB.Entities.csproj", "{2BDFA788-65C7-40ED-A8A7-DFD4D726D18C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{47984B6C-46D2-4786-853B-2A12591F10DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47984B6C-46D2-4786-853B-2A12591F10DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47984B6C-46D2-4786-853B-2A12591F10DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDFA788-65C7-40ED-A8A7-DFD4D726D18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDFA788-65C7-40ED-A8A7-DFD4D726D18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDFA788-65C7-40ED-A8A7-DFD4D726D18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDFA788-65C7-40ED-A8A7-DFD4D726D18C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
